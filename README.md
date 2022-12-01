@@ -1,0 +1,2 @@
+# Hamrorepository
+repository public
