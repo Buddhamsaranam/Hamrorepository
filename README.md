@@ -1,2 +1,2 @@
 # Hamrorepository
-repository public
+Hami Sabai ko Sajha Repository
