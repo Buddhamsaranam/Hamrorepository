@@ -1,3 +1,3 @@
 # Hamrorepository
 Hami Sabai ko Sajha Repository
-sabaile bhanau Mero repository mero jimmebari
+Hamro mukh ko boli "Mero repository mero jimmebari"
